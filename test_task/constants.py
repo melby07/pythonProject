@@ -4,8 +4,8 @@ from enum import Enum
 class Credentials(Enum):
     USERNAME = "test"
     PASSWORD = "test"
-    NEW_USERNAME = "anzor.gubzhokov13@yandex.ru"
-    NEW_PASSWORD = "dzonya14"
+    NEW_USERNAME = "game.over307@mail.ru"
+    NEW_PASSWORD = "gg1234"
 
 
 LINK = "https://zaycev.net/"
